@@ -18,7 +18,7 @@ completamente individual e com base no seu perfi, com recomendações de investi
 - Git & GitHub
 
 
-## Tecnologias
+## Tecnologias Futuras
 - RabbitMQ
 - Kafka
 - Docker
